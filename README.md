@@ -1,4 +1,4 @@
-# Package tum_ardrone
+# Package auto_flight
 
 This package contains the implementation corresponding to the following publications:
 
